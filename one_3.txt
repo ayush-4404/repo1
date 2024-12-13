@@ -5,3 +5,6 @@ add another file to the folder and commit it, also changes done in last commited
 doing more changes // trying git push instead of git push origin main
 
 making changes again this tyme to check upstream
+
+
+now I can add anything by jsut writing git push
